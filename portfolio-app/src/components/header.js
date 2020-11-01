@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from '../static/images/avatar.jpg';
+import Avatar from '../static/images/avatar.jpg';
 import { AppBar, Toolbar, Grid, Typography, Box } from '@material-ui/core';
 import { makeStyles } from "@material-ui/core/styles";
 import Typed from 'react-typed';
@@ -31,16 +31,16 @@ const Header = () => {
 
 			<Box>
 				<img 
-					src={avatar}
+					src={Avatar}
 					alt="avatar"
 					className="avatar-img"
 				/>
 
-				<Typography className={classes.title} align="center" variant="h4">
+				<Typography className={classes.title} align="center" variant="h5">
 					<Typed strings={["Hey, I'm Troy"]} typeSpeed={40}/>
 				</Typography>
 				<br/>
-				<Typography className={classes.subtitle} align="center" variant="h5">
+				<Typography className={classes.subtitle} align="center" variant="h6">
 					<Typed 
 						strings={["Undergraduate Senior Computer Science Student",
 											"Check out some work I've done below!",

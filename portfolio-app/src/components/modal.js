@@ -19,8 +19,15 @@ const useStyles = makeStyles((theme) => ({
     overflow: "hidden",
     maxWidth: 1000,
     maxHeight: 1000,
-
   },
+  image: {
+    display: "block",
+    marginLeft: "auto",
+    marginRight: "auto",
+    maxWidth: "100%",
+    height: "auto",
+    padding: "35px",
+  }
 }));
 
 export default function TransitionsModal(props) {
@@ -60,11 +67,11 @@ export default function TransitionsModal(props) {
       >
         <Fade in={open}>
           <div className={classes.paper}>
-            <img src={props.image}/>
-            <Typography variant="h4">{props.modalTitle}</Typography>
-            <Typography variant="h5">{props.modalSubtitle}</Typography>
-            <Typography variant="h6">{props.modalDetails}</Typography>
-            <Typography variant="h6">{props.modalDescription}</Typography>
+            <img className={classes.image} src={props.image}/>
+            <Typography variant="h6">{props.modalTitle}</Typography>
+            <Typography variant="subtitle1">{props.modalSubtitle}</Typography>
+            <Typography variant="subtitle1">{props.modalDetails}</Typography>
+            <Typography variant="body1">{props.modalDescription}</Typography>
           </div>
         </Fade>
       </Modal>

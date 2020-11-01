@@ -2,6 +2,7 @@ import React from 'react';
 import MediaCard from './card';
 import { Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
+import StyleMeScreen from '../static/images/stylemescreen.png';
 
 import TransitionsModal from './modal';
 
@@ -66,7 +67,7 @@ const Content = () => {
 
         <Grid item xs={12} sm={12} md={4}>
           <TransitionsModal 
-            image="https://www.ncsc.gov.uk/images/phone-1537387_1280.png?mpwidth=545&mlwidth=737&twidth=961&dwidth=618&dpr=2.625&width=412"
+            image={StyleMeScreen}
             cardTitle="StyleMe"
             cardText=""
             modalTitle="StyleMe"

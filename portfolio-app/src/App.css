@@ -6,7 +6,7 @@
 
 .header-text {
   color: midnightblue;
-  font-size: medium;
+  font-size: small;
   text-decoration: none;
   text-transform: uppercase;
   text-align: right;
@@ -16,7 +16,7 @@
 
 .header-link {
   color: midnightblue;
-  font-size: medium;
+  font-size: small;
   text-decoration: none;
   text-transform: uppercase;
   text-align: right;

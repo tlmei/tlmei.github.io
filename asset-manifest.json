@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.dafcbc57.chunk.css",
-    "main.js": "/portfolio-app/static/js/main.9dc76c10.chunk.js",
-    "main.js.map": "/portfolio-app/static/js/main.9dc76c10.chunk.js.map",
-    "runtime-main.js": "/portfolio-app/static/js/runtime-main.9d41a791.js",
-    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.9d41a791.js.map",
-    "static/js/2.2e9c93c7.chunk.js": "/portfolio-app/static/js/2.2e9c93c7.chunk.js",
-    "static/js/2.2e9c93c7.chunk.js.map": "/portfolio-app/static/js/2.2e9c93c7.chunk.js.map",
-    "index.html": "/portfolio-app/index.html",
-    "precache-manifest.133db84882dbabb7f4800b1af0b0cd9f.js": "/portfolio-app/precache-manifest.133db84882dbabb7f4800b1af0b0cd9f.js",
-    "service-worker.js": "/portfolio-app/service-worker.js",
-    "static/css/main.dafcbc57.chunk.css.map": "/portfolio-app/static/css/main.dafcbc57.chunk.css.map",
-    "static/js/2.2e9c93c7.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.2e9c93c7.chunk.js.LICENSE.txt",
-    "static/media/avatar.jpg": "/portfolio-app/static/media/avatar.8756d0c1.jpg"
+    "main.css": "/tlmei.github.io/static/css/main.dafcbc57.chunk.css",
+    "main.js": "/tlmei.github.io/static/js/main.c789ed72.chunk.js",
+    "main.js.map": "/tlmei.github.io/static/js/main.c789ed72.chunk.js.map",
+    "runtime-main.js": "/tlmei.github.io/static/js/runtime-main.dd1f0aa6.js",
+    "runtime-main.js.map": "/tlmei.github.io/static/js/runtime-main.dd1f0aa6.js.map",
+    "static/js/2.2e9c93c7.chunk.js": "/tlmei.github.io/static/js/2.2e9c93c7.chunk.js",
+    "static/js/2.2e9c93c7.chunk.js.map": "/tlmei.github.io/static/js/2.2e9c93c7.chunk.js.map",
+    "index.html": "/tlmei.github.io/index.html",
+    "precache-manifest.cd9dcc4ba0b870330f87c473f98d4245.js": "/tlmei.github.io/precache-manifest.cd9dcc4ba0b870330f87c473f98d4245.js",
+    "service-worker.js": "/tlmei.github.io/service-worker.js",
+    "static/css/main.dafcbc57.chunk.css.map": "/tlmei.github.io/static/css/main.dafcbc57.chunk.css.map",
+    "static/js/2.2e9c93c7.chunk.js.LICENSE.txt": "/tlmei.github.io/static/js/2.2e9c93c7.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/tlmei.github.io/static/media/avatar.8756d0c1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d41a791.js",
+    "static/js/runtime-main.dd1f0aa6.js",
     "static/js/2.2e9c93c7.chunk.js",
     "static/css/main.dafcbc57.chunk.css",
-    "static/js/main.9dc76c10.chunk.js"
+    "static/js/main.c789ed72.chunk.js"
   ]
 }

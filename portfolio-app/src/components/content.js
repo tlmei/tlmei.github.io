@@ -81,7 +81,7 @@ const Content = () => {
         <Grid item xs={12} sm={12} md={4}>
 
         <TransitionsModal 
-            image="https://www.ncsc.gov.uk/images/phone-1537387_1280.png?mpwidth=545&mlwidth=737&twidth=961&dwidth=618&dpr=2.625&width=412"
+            image="https://uploads-ssl.webflow.com/5cf10538b2a819c7169a882e/5d972ca60288551b875c4639_facebook-messenger-bot.jpg"
             cardTitle="Messenger Bot"
             cardText=""
             modalTitle=""
@@ -95,7 +95,7 @@ const Content = () => {
 
         <Grid item xs={12} sm={12} md={4}>
           <TransitionsModal 
-            image="https://www.ncsc.gov.uk/images/phone-1537387_1280.png?mpwidth=545&mlwidth=737&twidth=961&dwidth=618&dpr=2.625&width=412"
+            image="https://codehandbook.org/wp-content/uploads/2015/07/python_ff.jpg"
             cardTitle="Instagram Clone"
             cardText=""
             modalTitle=""
